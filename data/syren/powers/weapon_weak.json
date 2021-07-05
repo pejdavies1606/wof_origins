@@ -1,0 +1,19 @@
+{
+	"type": "origins:modify_damage_dealt",
+	"condition": {
+		"type": "origins:equipped_item",
+		"equipment_slot": "mainhand",
+		"item_condition": {
+			"type": "origins:ingredient",
+			"ingredient": {
+				"tag": "sytags:weapon"
+			}
+		}
+	},
+	"modifier": {
+		"value": -1.5,
+		"operation": "addition"
+	},
+	"name": "Natural Arms",
+	"description": "Your arms were formed to mainly use tridents as a prime weapon, making axes and swords deal less damage."
+}

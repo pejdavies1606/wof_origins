@@ -1,0 +1,11 @@
+{
+    "type": "origins:night_vision",
+    "strength": 1,
+    "condition": {
+        "type": "origins:submerged_in",
+        "inverted": false,
+        "fluid": "minecraft:water"
+    },
+    "name": "Underwater Vision",
+    "description": "You have enhanced sight underwater"
+}

@@ -1,0 +1,24 @@
+{
+  "type": "origins:swimming",
+  "condition": {
+	"type": "origins:or",
+	"conditions": [
+		{
+		"type": "origins:on_block",
+		"block_condition": {
+			"type": "origins:in_tag",
+			"tag": "taggie:ice_snow"
+			}
+		},
+		{
+			"type": "origins:in_block",
+			"block_condition": {
+			"type": "origins:block",
+			"block": "minecraft:snow"
+			}
+		}
+	]
+  },
+  "name": "Belly Slide",
+  "description": "While on ice or snow, sprinting will instead cause you to do a belly slide as if you were swimming!"
+}

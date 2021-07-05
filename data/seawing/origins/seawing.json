@@ -1,0 +1,32 @@
+{
+	"powers": [
+		"origins:aqua_affinity",
+		"origins:aquatic",
+		"origins:light_armor",
+		"origins:like_water",
+		"origins:more_exhaustion",
+        "origins:natural_armor",
+		"origins:no_shield",
+        "origins:slow_falling",
+		"origins:swim_speed",
+		"origins:water_vision",
+		"animal:water_strength",
+		"dolphin:ocean_spawn",
+		"dolphin:water_vision",
+		"dragon:air_swimming",
+		"dragon:amphibious",
+		"dragon:draconic_strength",
+		"dragon:water_ball",
+		"dragon:wyrm_armor",
+		"kyo:ocean_comfort",
+		"kyo:surf",
+		"kyo:whale_sized"
+	],
+	"icon": {
+		"item": "minecraft:tube_coral"
+	},
+	"order": 0,
+	"impact": 2,
+    "name": "SeaWing",
+    "description": "Sea-dwelling dragon from Wings of Fire."
+}

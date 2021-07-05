@@ -1,0 +1,132 @@
+{
+	"type": "origins:action_over_time",
+	"entity_action":
+	{
+		"type": "origins:if_else",
+		"condition":
+		{
+			"type": "origins:food_level",
+			"comparison": ">=",
+			"compare_to": 18
+		},
+		"if_action":
+		{
+			"type": "origins:and",
+			"actions":
+			[
+
+				{
+					"type": "origins:execute_command",
+					"command": "scale set pehkui:height 1.5 @s",
+					"permission_level": 4
+				},
+				{
+					"type": "origins:execute_command",
+					"command": "scale set pehkui:width 1.75 @s",
+					"permission_level": 4
+				},
+				{
+					"type": "origins:execute_command",
+					"command": "scale set pehkui:motion 1.5 @s",
+					"permission_level": 4
+				},
+				{
+					"type": "origins:execute_command",
+					"command": "scale set pehkui:reach 1.5 @s",
+					"permission_level": 4
+				},
+
+				{
+					"type": "origins:execute_command",
+					"command": "attribute @s minecraft:generic.movement_speed base set 0.035",
+					"permission_level": 4
+				}
+
+			]
+		},
+		"else_action":
+		{
+			"type": "origins:if_else",
+			"condition":
+			{
+				"type": "origins:food_level",
+				"comparison": "<=",
+				"compare_to": 8
+			},
+			"if_action":
+			{
+				"type": "origins:and",
+				"actions":
+				[
+					{
+						"type": "origins:execute_command",
+						"command": "scale set pehkui:height 0.75 @s",
+						"permission_level": 4
+					},
+					{
+						"type": "origins:execute_command",
+						"command": "scale set pehkui:width 0.5 @s",
+						"permission_level": 4
+					},
+					{
+						"type": "origins:execute_command",
+						"command": "scale set pehkui:motion 0.75 @s",
+						"permission_level": 4
+					},
+					{
+						"type": "origins:execute_command",
+						"command": "scale set pehkui:reach 0.75 @s",
+						"permission_level": 4
+					},
+					{
+						"type": "origins:execute_command",
+						"command": "attribute @s minecraft:generic.movement_speed base set 0.2",
+						"permission_level": 4
+					},
+					{
+						"type": "origins:execute_command",
+						"command": "effect give @s minecraft:jump_boost 1 2 true",
+						"permission_level": 4
+					}
+				]
+			},
+			"else_action":
+			{
+				"type": "origins:and",
+				"actions":
+				[
+
+					{
+						"type": "origins:execute_command",
+						"command": "scale set pehkui:height 1.0 @s",
+						"permission_level": 4
+					},
+					{
+						"type": "origins:execute_command",
+						"command": "scale set pehkui:width 1.0 @s",
+						"permission_level": 4
+					},
+					{
+						"type": "origins:execute_command",
+						"command": "scale set pehkui:motion 1.0 @s",
+						"permission_level": 4
+					},
+					{
+						"type": "origins:execute_command",
+						"command": "scale set pehkui:reach 1.0 @s",
+						"permission_level": 4
+					},
+					{
+						"type": "origins:execute_command",
+						"command": "attribute @s minecraft:generic.movement_speed base set 0.1",
+						"permission_level": 4
+					}
+
+				]
+			}
+		}
+	},
+	"interval": 20,		
+	"name": "Water Weight",
+	"description": "Your body changes size depending on your hunger (water). When water is almost full, you expand, slow down, and can't fit in beds with the benefit of extra defense. When water is low you shrink and grow weaker, but faster. In the middle, you are exactly normal."
+}

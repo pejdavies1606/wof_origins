@@ -1,0 +1,6 @@
+{
+  "type": "origins:particle",
+  "particle": "minecraft:dripping_water",
+  "frequency": 6,
+  "hidden": true
+}

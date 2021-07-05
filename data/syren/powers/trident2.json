@@ -1,0 +1,20 @@
+{
+   "type":"origins:target_action_on_hit",
+   "entity_action":{
+      "type":"origins:damage",
+      "amount":16,
+	  "source": {
+        "name":"trident",
+        "bypasses_armor":false
+      }
+   },
+   "damage_condition":{
+      "type":"origins:projectile",
+	  "projectile": "minecraft:trident"
+   },
+   "cooldown":0,
+   "hidden": true,
+   "hud_render":{
+      "should_render":false
+   }
+}

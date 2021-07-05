@@ -1,0 +1,15 @@
+{
+  "type": "origins:conditioned_attribute",
+  "name": "Flippers",
+  "description": "You're slower on land",
+  "condition": {
+    "type": "origins:submerged_in",
+    "fluid": "minecraft:water",
+    "inverted": true
+  },
+  "modifier": {
+    "attribute": "generic.movement_speed",
+    "operation": "multiply_base",
+    "value": -0.25
+  }
+}

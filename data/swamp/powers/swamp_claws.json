@@ -1,0 +1,11 @@
+{
+    "type": "origins:attribute",
+    "modifier": {
+        "name": "damage increase",
+        "attribute": "minecraft:generic.attack_damage",
+        "value": 3,
+        "operation": "addition"
+    },
+	"name": "Swamp Claws",
+	"description": "You deal more damage because of your sharp claws!"
+}
