@@ -1,0 +1,17 @@
+{
+    "name": "Tribe",
+    "allow_random": true,
+    "auto_choose": true,
+    "origins": [
+        {
+            "condition": {
+                "type": "origins:origin",
+                "origin": "wof_origins:dragon",
+                "layer": "wof_origins:tribe"
+            },
+            "origins": [
+                "wof_origins:seawing"
+            ]
+        }
+    ]
+}
