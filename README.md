@@ -1,9 +1,24 @@
-# SeaWing Origin
-Author: psq95
+# Wings of Fire Origins
 
-Add-on Datapack for Origin mod in Minecraft. Includes:
-+ SeaWing Water Dragon (Wings of Fire)
+This is an add-on datapack for the Origins mod in Minecraft. It includes origins for the dragons from [Wings of Fire](https://wingsoffire.fandom.com/wiki/Dragons):
++ [SeaWing](https://wingsoffire.fandom.com/wiki/SeaWings) 
 
-## To Do
+## Getting Started
 
-+ Restructure from ns/powers to seawing/powers/ns
+### Prerequisites
+
+* [Minecraft](https://www.minecraft.net)
+* [Origins](https://www.curseforge.com/minecraft/mc-mods/origins)
+* [Pekhui](https://www.curseforge.com/minecraft/mc-mods/pehkui)
+
+### Installation
+
+1. Download ZIP file.
+
+## Usage
+
+Select `Dragon (WoF)` origin, then select tribe.
+
+## Acknowledgments
+
+* TODO
