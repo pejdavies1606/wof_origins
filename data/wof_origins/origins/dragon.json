@@ -1,0 +1,19 @@
+{
+	"name": "Dragon (WoF)",
+	"description": "Dragon (Wings of Fire).",
+	"order": 0,
+	"impact": 2,
+	"icon": {
+		"item": "minecraft:dragon_egg"
+	},
+	"powers": [
+		"origins:light_armor",
+		"origins:more_exhaustion",
+		"origins:natural_armor",
+		"origins:no_shield",
+		"origins:slow_falling",
+		"dragon:air_swimming",
+		"dragon:draconic_strength",
+		"dragon:wyrm_armor"
+	]
+}
