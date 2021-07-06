@@ -8,12 +8,12 @@
 	},
 	"powers": [
 		"origins:light_armor",
-		"origins:more_exhaustion",
 		"origins:natural_armor",
 		"origins:no_shield",
 		"origins:slow_falling",
 		"dragon:air_swimming",
 		"dragon:draconic_strength",
-		"dragon:wyrm_armor"
+		"dragon:wyrm_armor",
+		"extra:small_appetite"
 	]
 }
