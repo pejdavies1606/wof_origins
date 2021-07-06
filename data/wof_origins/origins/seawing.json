@@ -12,13 +12,13 @@
 		"origins:like_water",
 		"origins:swim_speed",
 		"origins:water_vision",
-		"animal:water_strength",
-		"dolphin:ocean_spawn",
-		"dolphin:water_vision",
-		"dragon:amphibious",
-		"dragon:water_ball",
-		"kyo:ocean_comfort",
-		"kyo:surf",
-		"kyo:whale_sized"
+		"wof_origins:animal/water_strength",
+		"wof_origins:dolphin/ocean_spawn",
+		"wof_origins:dolphin/water_vision",
+		"wof_origins:dragon/amphibious",
+		"wof_origins:dragon/water_ball",
+		"wof_origins:kyo/ocean_comfort",
+		"wof_origins:kyo/surf",
+		"wof_origins:kyo/whale_sized"
 	]
 }

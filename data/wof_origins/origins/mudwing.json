@@ -9,9 +9,9 @@
 	"powers": [
 		"origins:aqua_affinity",
 		"origins:aquatic",
-		"animal:water_strength",
-		"dolphin:water_vision",
-		"kyo:ocean_comfort",
-		"kyo:whale_sized"
+		"wof_origins:animal/water_strength",
+		"wof_origins:dolphin/water_vision",
+		"wof_origins:kyo/ocean_comfort",
+		"wof_origins:kyo/whale_sized"
 	]
 }

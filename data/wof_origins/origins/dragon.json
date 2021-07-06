@@ -1,6 +1,6 @@
 {
 	"name": "Dragon (WoF)",
-	"description": "Dragon (Wings of Fire).",
+	"description": "A dragon from Wings of Fire.",
 	"order": 0,
 	"impact": 2,
 	"icon": {
@@ -11,9 +11,9 @@
 		"origins:natural_armor",
 		"origins:no_shield",
 		"origins:slow_falling",
-		"dragon:air_swimming",
-		"dragon:draconic_strength",
-		"dragon:wyrm_armor",
-		"extra:small_appetite"
+		"wof_origins:dragon/air_swimming",
+		"wof_origins:dragon/draconic_strength",
+		"wof_origins:dragon/wyrm_armor",
+		"wof_origins:extra/small_appetite"
 	]
 }
