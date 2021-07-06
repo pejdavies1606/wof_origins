@@ -1,4 +1,6 @@
 {
+	"name": "Natural Arms",
+	"description": "You do less damage with swords and axes.",
 	"type": "origins:modify_damage_dealt",
 	"condition": {
 		"type": "origins:equipped_item",
@@ -6,14 +8,12 @@
 		"item_condition": {
 			"type": "origins:ingredient",
 			"ingredient": {
-				"tag": "sytags:weapon"
+				"tag": "wof_origins:weapon"
 			}
 		}
 	},
 	"modifier": {
 		"value": -1.5,
 		"operation": "addition"
-	},
-	"name": "Natural Arms",
-	"description": "Your arms were formed to mainly use tridents as a prime weapon, making axes and swords deal less damage."
+	}
 }

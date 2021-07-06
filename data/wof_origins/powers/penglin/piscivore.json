@@ -1,13 +1,13 @@
 {
 	"name": "Piscivore",
-	"description": "You can only digest raw fish, but gain more hunger and saturation points from it.",
+	"description": "Fish are more nutritous for you.",
     "type": "origins:multiple",
 	"fish": {
 		"type": "origins:modify_food",
 		"item_condition": {
 			"type": "origins:ingredient",
 			"ingredient": {
-				"tag": "taggie:fish"
+				"tag": "wof_origins:fish"
 			}
 		},
 		"food_modifier": {
