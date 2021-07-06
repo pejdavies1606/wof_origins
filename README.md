@@ -22,8 +22,9 @@ This is an add-on datapack for the Origins mod in Minecraft. It includes origins
 4. Install Fabric loader to generate Fabric profile.  
     e.g. `%ROOT%/.minecraft/versions/fabric-loader-0.11.6-1.16.5`
 5. Create directory `%ROOT%/.fabric/wof_origins`
-6. Configure Fabric profile:
+6. Create new installation:
     + Name: `Origins`
+    + Version: Fabric, e.g. `release fabric-loader-0.11.6-1.16.5`
     + Game directory: `%ROOT%/.fabric/wof_origins`
 7. Launch Minecraft with Fabric profile to generate folder structure in custom game directory.
 8. Install mods to `%ROOT%/.fabric/wof_origins/mods/.`
