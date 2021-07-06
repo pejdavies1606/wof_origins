@@ -1,17 +1,34 @@
 {
     "name": "Tribe",
+    "order": 10,
+    "enabled": true,
     "allow_random": true,
-    "auto_choose": true,
+    "auto_choose": false,
     "origins": [
         {
             "condition": {
                 "type": "origins:origin",
                 "origin": "wof_origins:dragon",
-                "layer": "wof_origins:tribe"
+                "layer": "origins:origin",
+                "inverted": true
             },
             "origins": [
+                "wof_origins:nowing"
+            ]
+        },
+        {
+            "condition": {
+                "type": "origins:origin",
+                "origin": "wof_origins:dragon",
+                "layer": "origins:origin"
+            },
+            "origins": [
+                "wof_origins:mudwing",
                 "wof_origins:seawing"
             ]
         }
+    ],
+    "exclude_random": [
+        "wof_origins:nowing"
     ]
 }

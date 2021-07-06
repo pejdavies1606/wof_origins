@@ -1,4 +1,11 @@
 {
+	"name": "SeaWing",
+	"description": "Pyrrhian dragon from the Kingdom of the Sea.",
+	"order": 0,
+	"impact": 2,
+	"icon": {
+		"item": "minecraft:tube_coral"
+	},
 	"powers": [
 		"origins:aqua_affinity",
 		"origins:aquatic",
@@ -13,12 +20,5 @@
 		"kyo:ocean_comfort",
 		"kyo:surf",
 		"kyo:whale_sized"
-	],
-	"icon": {
-		"item": "minecraft:tube_coral"
-	},
-	"order": 0,
-	"impact": 2,
-	"name": "SeaWing",
-	"description": "Pyrrhian dragon from the Kingdom of the Sea."
+	]
 }

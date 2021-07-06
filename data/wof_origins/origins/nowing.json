@@ -1,0 +1,9 @@
+{
+  "name": "None",
+  "description": "Not a Wings of Fire dragon.",
+  "order": 0,
+  "impact": 0,
+  "icon": "minecraft:stick",
+  "powers": [],
+  "unchoosable": true
+}
