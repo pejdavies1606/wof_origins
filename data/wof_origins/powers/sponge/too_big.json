@@ -1,10 +1,12 @@
 {
+  "hidden": true,
+  "name": "Too big for beds",
+  "description": "You cannot sleep if you cannot fit in the bed.",
   "type": "origins:prevent_sleep",
   "message": "You are too big to fit in the bed.",
   "condition": {
     "type": "origins:food_level",
     "comparison": ">=",
     "compare_to": 18
-  },
-  "hidden": true
+  }
 }

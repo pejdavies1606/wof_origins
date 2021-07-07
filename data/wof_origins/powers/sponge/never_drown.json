@@ -1,14 +1,14 @@
 {
+  "name": "Water Breathing",
+  "description": "You can breathe water.",
     "type": "origins:action_over_time",
+    "interval": 20,
     "entity_action": {
         "type": "origins:gain_air",
-        "value": 50
+        "value": 20
     },
-    "interval": 1,
     "condition": {
         "type": "origins:submerged_in",
         "fluid": "minecraft:water"
-    },
-	"name": "Water Breathing",
-	"description": "You can breath both underwater and on land. As long as water is in your pores, you're good."
+    }
 }
