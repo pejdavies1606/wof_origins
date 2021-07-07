@@ -1,10 +1,10 @@
 {
-	"type": "origins:action_over_time",
-	"entity_action": {
-		"type": "origins:gain_air",
-		"value": 30
-	},
-	"interval": 20,
-	"name": "Addaptive Lungs",
-	"description": "Your unique Turtling lungs let you breathe both underwater and on land."
+  "name": "Adaptive Lungs",
+  "description": "Your unique lungs let you breathe both underwater and on land.",
+  "type": "origins:action_over_time",
+  "interval": 20,
+  "entity_action": {
+    "type": "origins:gain_air",
+    "value": 20
+  }
 }
