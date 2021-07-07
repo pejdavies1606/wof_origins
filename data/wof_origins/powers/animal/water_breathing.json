@@ -1,4 +1,6 @@
 {
+	"name": "Water Breathing",
+	"description": "You can breathe under water.",
 	"type": "origins:stacking_status_effect",
 	"min_stacks": 1,
 	"max_stacks": 1,
@@ -6,12 +8,11 @@
 	"effect": {
 		"effect": "minecraft:water_breathing",
 		"amplifier": 1,
-		"show_icon": false
+		"show_icon": false,
+		"show_particles": false
 	},
 	"condition": {
 		"type": "origins:submerged_in",
 		"fluid": "minecraft:water"
-	},
-	"name": "Water Breathing",
-	"description": "You can breathe under water."
+	}
 }
