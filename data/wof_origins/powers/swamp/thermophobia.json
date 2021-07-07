@@ -1,29 +1,39 @@
 {
-    "type":"origins:stacking_status_effect" ,
-    "min_stacks": 0 ,
-    "max_stacks": 2 ,
-    "duration_per_stack": 20 ,
-    "effect": {
-        "effect":"minecraft:weakness" ,
-        "duration": 20 ,
-        "aplifier": 2 ,
-        "show_particles": false
-    } ,
-    "condition": {
-        "type":"origins:or",
-        "conditions": [
-            {"type":"origins:biome" ,
-            "biome":"minecraft:crimson_forest"},
-            {"type":"origins:biome" ,
-            "biome":"minecraft:nether_wastes"},
-            {"type":"origins:biome" ,
-            "biome":"minecraft:warped_forest"},
-            {"type":"origins:biome" ,
-            "biome":"minecraft:soul_sand_valley"},
-            {"type":"origins:biome" ,
-            "biome":"minecraft:basalt_deltas"}
-        ]
-    },
-            "name":"Thermophobia" ,
-            "description":"You're scared of hot location, so you get weaker."
+  "name": "Thermophobia",
+  "description": "You are weakened in hot locations.",
+  "type": "origins:stacking_status_effect",
+  "min_stacks": 0,
+  "max_stacks": 2,
+  "duration_per_stack": 20,
+  "effect": {
+    "effect": "minecraft:weakness",
+    "duration": 20,
+    "aplifier": 2,
+    "show_particles": false
+  },
+  "condition": {
+    "type": "origins:or",
+    "conditions": [
+      {
+        "type": "origins:biome",
+        "biome": "minecraft:crimson_forest"
+      },
+      {
+        "type": "origins:biome",
+        "biome": "minecraft:nether_wastes"
+      },
+      {
+        "type": "origins:biome",
+        "biome": "minecraft:warped_forest"
+      },
+      {
+        "type": "origins:biome",
+        "biome": "minecraft:soul_sand_valley"
+      },
+      {
+        "type": "origins:biome",
+        "biome": "minecraft:basalt_deltas"
+      }
+    ]
+  }
 }
