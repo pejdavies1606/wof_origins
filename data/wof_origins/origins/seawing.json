@@ -11,14 +11,14 @@
 		"origins:aquatic",
 		"origins:like_water",
 		"origins:swim_speed",
-		"origins:water_vision",
-		"wof_origins:animal/water_strength",
 		"wof_origins:dolphin/ocean_spawn",
 		"wof_origins:dolphin/water_vision",
-		"wof_origins:dragon/amphibious",
-		"wof_origins:dragon/water_ball",
 		"wof_origins:kyo/ocean_comfort",
-		"wof_origins:kyo/surf",
-		"wof_origins:kyo/whale_sized"
+		"wof_origins:penglin/overheat",
+		"wof_origins:penglin/piscivore",
+		"wof_origins:penguin/size",
+		"wof_origins:penguin/slow",
+		"wof_origins:sponge/never_drown",
+		"wof_origins:syren/weapon_weak"
 	]
 }
