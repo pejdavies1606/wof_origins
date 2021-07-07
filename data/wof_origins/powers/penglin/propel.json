@@ -1,4 +1,6 @@
 {
+  "name": "Propel",
+  "description": "Pressing your secondary key underwater will propel you forward.",
   "type": "origins:active_self",
   "key": {
     "key": "key.origins.secondary_active"
@@ -10,15 +12,13 @@
   },
   "cooldown": 80,
   "hud_render": {
-	"should_render": true,
+    "should_render": true,
     "bar_index": 1
   },
   "condition": {
-		"type": "origins:fluid_height",
-        "fluid": "minecraft:water",
-        "comparison": ">",
-        "compare_to": 0
-  },
-  "name": "Propel",
-  "description": "Pressing your secondary key underwater will propel you forward."
+    "type": "origins:fluid_height",
+      "fluid": "minecraft:water",
+      "comparison": ">",
+      "compare_to": 0
+  }
 }
