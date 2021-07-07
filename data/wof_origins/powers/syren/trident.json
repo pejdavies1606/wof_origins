@@ -1,4 +1,6 @@
 {
+  "name": "Trident Bearer",
+  "description": "Tridents deal more damage.",
   "type": "origins:modify_damage_dealt",
   "modifier": {
     "operation": "multiply_total",
@@ -13,7 +15,5 @@
         "item": "minecraft:trident"
       }
     }
-  },
-  "name": "Trident Bearer",
-  "description": "Tridents deal more damage, punching or throwing, than usual."
+  }
 }
