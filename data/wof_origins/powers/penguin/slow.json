@@ -1,7 +1,7 @@
 {
-  "type": "origins:conditioned_attribute",
   "name": "Flippers",
-  "description": "You're slower on land",
+  "description": "You move slower on land.",
+  "type": "origins:conditioned_attribute",
   "condition": {
     "type": "origins:submerged_in",
     "fluid": "minecraft:water",
