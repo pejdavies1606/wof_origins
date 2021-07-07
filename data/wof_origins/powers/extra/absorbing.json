@@ -1,22 +1,23 @@
 {
+  "name": "Absorbing",
+  "description": "You do more damage when in water or rain.",
   "type": "origins:modify_damage_dealt",
   "modifier": {
-	"name": "Origin modifier",
-	"operation": "addition",
-	"value": 2
+    "operation": "addition",
+    "value": 2
   },
   "condition": {
-	"type": "origins:or",
-	"conditions": [
-	  {
-		"type": "origins:fluid_height",
-		"fluid": "water",
-		"comparison": ">",
-		"compare_to": 0.0
-	  },
-	  {
-		"type": "origins:in_rain"
-	  }
-	]
+    "type": "origins:or",
+    "conditions": [
+      {
+        "type": "origins:fluid_height",
+        "fluid": "water",
+        "comparison": ">",
+        "compare_to": 0.0
+      },
+      {
+        "type": "origins:in_rain"
+      }
+    ]
   }
 }
