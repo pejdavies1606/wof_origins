@@ -1,0 +1,8 @@
+{
+	"hidden": true,
+	"name": "Icy Aura",
+  "description": "You have an icy aura.",
+	"type": "origins:particle",
+	"particle": "minecraft:end_rod",
+	"frequency": 4
+}

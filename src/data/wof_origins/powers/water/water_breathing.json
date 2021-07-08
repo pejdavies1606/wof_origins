@@ -1,0 +1,14 @@
+{
+  "name": "Water Breathing",
+  "description": "You can breathe water.",
+    "type": "origins:action_over_time",
+    "interval": 20,
+    "entity_action": {
+        "type": "origins:gain_air",
+        "value": 20
+    },
+    "condition": {
+        "type": "origins:submerged_in",
+        "fluid": "minecraft:water"
+    }
+}

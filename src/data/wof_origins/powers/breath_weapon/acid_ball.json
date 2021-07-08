@@ -1,0 +1,11 @@
+{
+  "name": "Acid Spit",
+  "description": "You can spit acid to melt you enemies!",
+  "type": "origins:fire_projectile",
+  "entity_type": "minecraft:dragon_fireball",
+  "cooldown": 60,
+  "hud_render": {
+    "should_render": false,
+    "bar_index": 1
+  }
+}

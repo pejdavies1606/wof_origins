@@ -1,0 +1,9 @@
+{
+  "name": "Small appetite",
+  "description": "You can survive without food for quite some time.",
+  "type": "origins:modify_exhaustion",
+  "modifier": {
+	"operation": "multiply_base",
+	"value": -0.75
+  }
+}

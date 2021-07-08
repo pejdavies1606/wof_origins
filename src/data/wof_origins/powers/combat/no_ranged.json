@@ -1,0 +1,11 @@
+{
+  "name": "No ranged weapons",
+  "description": "You cannot use bows or crossbows.",
+  "type": "origins:prevent_item_use",
+  "item_condition": {
+    "type": "origins:ingredient",
+    "ingredient": {
+      "tag": "wof_origins:weapon_ranged"
+    }
+  }
+}

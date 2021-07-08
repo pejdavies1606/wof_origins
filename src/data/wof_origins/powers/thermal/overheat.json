@@ -1,0 +1,47 @@
+{
+  "name": "Overheat",
+  "description": "The unbearable heat of most hot biomes will apply the slowness II, weakness, and mining fatigue status effects to you. You take double damage from fire. Fire resistance will nullify these effects.",
+  "type": "origins:stacking_status_effect",
+  "min_stacks": -2,
+  "max_stacks": 2,
+  "duration_per_stack": 30,
+  "effects": [
+    {
+      "effect": "minecraft:slowness",
+      "amplifier": 1,
+      "is_ambient": true,
+      "show_particles": false,
+      "show_icon": true
+    },
+    {
+      "effect": "minecraft:mining_fatigue",
+      "is_ambient": true,
+      "show_particles": false,
+      "show_icon": true
+    },
+    {
+      "effect": "minecraft:weakness",
+      "is_ambient": true,
+      "show_particles": false,
+      "show_icon": true
+    }
+  ],
+  "condition": {
+    "type": "origins:and",
+    "conditions": [
+      {
+        "type": "origins:status_effect",
+        "effect": "minecraft:fire_resistance",
+        "inverted": true
+      },
+      {
+        "type": "origins:biome",
+        "condition": {
+          "type": "origins:temperature",
+          "comparison": ">=",
+          "compare_to": 2.0
+        }
+      }
+    ]
+  }
+}

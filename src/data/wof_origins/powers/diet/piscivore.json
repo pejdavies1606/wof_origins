@@ -1,0 +1,22 @@
+{
+  "name": "Piscivore",
+  "description": "Raw fish are more nutritous for you.",
+  "type": "origins:multiple",
+  "fish": {
+    "type": "origins:modify_food",
+    "item_condition": {
+      "type": "origins:ingredient",
+      "ingredient": {
+        "tag": "wof_origins:raw_fish"
+      }
+    },
+    "food_modifier": {
+      "operation": "addition",
+      "value": 2
+    },
+    "saturation_modifier": {
+      "operation": "addition",
+      "value": 1
+    }
+  }
+}

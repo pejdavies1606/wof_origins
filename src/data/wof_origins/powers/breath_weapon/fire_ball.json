@@ -1,0 +1,11 @@
+{
+  "name": "Fire Breath",
+  "description": "You can shoot great balls of fire to roast your enemies!",
+  "type": "origins:fire_projectile",
+  "entity_type": "minecraft:dragon_fireball",
+  "cooldown": 60,
+  "hud_render": {
+    "should_render": false,
+    "bar_index": 1
+  }
+}

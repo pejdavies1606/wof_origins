@@ -1,0 +1,19 @@
+{
+  "hidden": true,
+  "name": "Slow on land",
+  "description": "You move slower on land.",
+  "type": "origins:conditioned_attribute",
+  "tick_rate": 5,
+  "modifier": {
+    "attribute": "minecraft:generic.movement_speed",
+    "operation": "multiply_base",
+    "value": -0.20
+  },
+  "condition": {
+    "type": "origins:fluid_height",
+    "fluid": "minecraft:water",
+    "comparison": ">",
+    "compare_to": "0",
+    "inverted": true
+  }
+}

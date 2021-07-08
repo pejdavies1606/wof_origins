@@ -1,0 +1,24 @@
+{
+  "name": "Natural Arms",
+  "description": "You do less damage with swords and axes.",
+  "type": "origins:modify_damage_dealt",
+  "modifier": {
+    "value": -2,
+    "operation": "addition"
+  },
+  "condition": {
+    "type": "origins:equipped_item",
+    "equipment_slot": "mainhand",
+    "item_condition": {
+      "type": "origins:ingredient",
+      "ingredient": [
+        {
+          "tag": "wof_origins:weapon_axe"
+        },
+        {
+          "tag": "wof_origins:weapon_sword"
+        }
+      ]
+    }
+  }
+}
