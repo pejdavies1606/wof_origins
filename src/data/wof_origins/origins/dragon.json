@@ -7,13 +7,15 @@
 		"item": "minecraft:dragon_egg"
 	},
 	"powers": [
+		"origins:elytra",
 		"origins:light_armor",
-		"origins:natural_armor",
 		"origins:no_shield",
 		"origins:slow_falling",
-		"wof_origins:dragon/air_swimming",
-		"wof_origins:dragon/draconic_strength",
-		"wof_origins:dragon/wyrm_armor",
-		"wof_origins:extra/small_appetite"
+		"wof_origins:combat/natural_armor",
+		"wof_origins:combat/no_ranged",
+		"wof_origins:combat/sharp_claws",
+		"wof_origins:combat/weak_melee",
+		"wof_origins:diet/small_appetite",
+		"wof_origins:mobility/swim_air"
 	]
 }
