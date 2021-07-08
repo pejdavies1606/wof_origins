@@ -1,6 +1,6 @@
 {
   "name": "Sharp Claws",
-  "description": "You deal more damage with your sharp claws!",
+  "description": "You deal more damage when empty handed.",
   "type": "origins:modify_damage_dealt",
   "modifier": {
     "operation": "addition",

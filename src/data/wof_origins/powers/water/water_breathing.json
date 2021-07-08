@@ -1,5 +1,5 @@
 {
-  "name": "Water Breathing",
+  "name": "Gills & Lungs",
   "description": "You can breathe water.",
     "type": "origins:action_over_time",
     "interval": 20,

@@ -1,12 +1,12 @@
 {
-  "name": "Water Legs",
-  "description": "Your legs are better fitted for water and so you swim faster, but you are not so fitted for land and so you walk and run much slower.",
+  "name": "Webbed Claws",
+  "description": "You move slower on land, unless you are in your element.",
   "type": "origins:conditioned_attribute",
   "tick_rate": 1,
   "modifier": {
     "attribute": "generic.movement_speed",
-    "operation": "addition",
-    "value": -0.05
+    "operation": "multiply_base",
+    "value": -0.2
   },
   "condition": {
     "type": "origins:or",
@@ -26,6 +26,11 @@
         "type": "origins:and",
         "conditions": [
           {
+            "type": "origins:status_effect",
+            "effect": "minecraft:slowness",
+            "inverted": true
+          },
+          {
             "type": "origins:or",
             "conditions": [
               {
@@ -36,11 +41,6 @@
                 "type": "origins:in_rain"
               }
             ]
-          },
-          {
-            "type": "origins:status_effect",
-            "effect": "minecraft:slowness",
-            "inverted": true
           }
         ]
       }

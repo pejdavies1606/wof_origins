@@ -1,6 +1,6 @@
 {
-  "name": "Natural Arms",
-  "description": "You do less damage with swords and axes.",
+  "name": "Unwieldy (melee)",
+  "description": "You are not proficient with swords and axes.",
   "type": "origins:modify_damage_dealt",
   "modifier": {
     "value": -2,

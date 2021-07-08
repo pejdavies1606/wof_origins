@@ -6,27 +6,37 @@ This is an add-on datapack for the Origins mod in Minecraft. It includes origins
 
 + [Dragon](https://wingsoffire.fandom.com/wiki/Dragons) origin
 	+ Base origin, common to all Tribes.
-	+ Origins
-		+ Light armor
-		+ Natural armor (+8 armor)
-		+ No shield
-		+ Slow falling
-	+ Custom
-		+ Can swim through the air
-		+ Increased unarmed attack damage (+4 damage)
-		+ Small appetite (base*-0.75 exhaustion)
-		+ Not proficient with swords and axes (-1.5 damage dealt)
+	+ Powers from Origins
+		+ Featherweight: You fall as gently to the ground as a feather would, unless you sneak.
+		+ Need for mobility:  You can not wear any heavy armor (armor with protection values higher than chainmail).
+		+ Unwieldy: The way your hands are formed provide no way of holding a shield upright.
+		+ Winged: You have Elytra wings without needing to equip any.
+	+ Custom powers
+		+ Natural armor: Your scales provide all the protection you need.
+		+ Sharp Claws: You deal more damage when empty handed.
+		+ Small Appetite: You can survive without food for quite some time.
+		+ Unwieldy (melee): You are not proficient with swords and axes.
+		+ Unwieldy (ranged): You can not use bows and crossbows.
 
 + [SeaWing](https://wingsoffire.fandom.com/wiki/SeaWings) tribe
-	+ Based on Merling
-		+ Permanent water vision
-		+ Can still breathe air
-	+ Spawn in the ocean
-	+ Must sleep underwater
-	+ Exhaust in hot and dry environments
-	+ Fish are more nutritious
-	+ Small, for a dragon
-	+ Move slower on land
+	+ Powers from Origins (similar to Merling)
+		+ Aquatic: You receive more damage from impaling.
+		+ Aqua Affinity: You may break blocks underwater as others do on land.
+		+ Fins: Your underwater speed is increased.
+		+ Like Water: When underwater, you do not sink to the ground unless you want to.
+	+ Custom powers
+		+ Gills & Lungs: You can breathe both underwater and on land.
+		+ Ocean Spawn: You naturally spawn in the ocean.
+		+ Ocean Comfort: You cannot sleep unless your bed is underwater.
+		+ Overheat: The unbearable heat of most hot biomes weaken you. Consider using fire resistance.
+		+ Piscivore: Raw fish are more nutritious for you.
+		+ Water Vision: You can see perfectly underwater.
+		+ Webbed Claws: You move slower on land, unless:
+			+ you are standing in water, or
+			+ you have the conduit power effect, or
+			+ you do not have the slowness effect and
+				+ you have the speed effect, or
+				+ you are in rain.
 
 ## Planned Features
 

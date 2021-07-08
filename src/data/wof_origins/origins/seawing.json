@@ -7,16 +7,15 @@
 		"item": "minecraft:tube_coral"
 	},
 	"powers": [
-		"origins:aqua_affinity",
 		"origins:aquatic",
+		"origins:aqua_affinity",
 		"origins:like_water",
 		"origins:swim_speed",
 		"wof_origins:combat/water_proficient",
 		"wof_origins:diet/piscivore",
-		"wof_origins:mobility/slow_land",
+		"wof_origins:mobility/webbed_claws",
 		"wof_origins:ocean/ocean_comfort",
 		"wof_origins:ocean/ocean_spawn",
-		"wof_origins:size/size_small",
 		"wof_origins:thermal/overheat",
 		"wof_origins:water/water_breathing",
 		"wof_origins:water/water_vision"

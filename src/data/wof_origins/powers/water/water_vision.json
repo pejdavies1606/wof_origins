@@ -1,6 +1,6 @@
 {
-    "name": "Underwater Vision",
-    "description": "You have enhanced sight underwater.",
+    "name": "Water Vision",
+    "description": "You have can see perfectly underwater.",
     "type": "origins:night_vision",
     "strength": 1,
     "condition": {

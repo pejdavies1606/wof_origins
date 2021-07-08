@@ -15,7 +15,6 @@
 		"wof_origins:combat/no_ranged",
 		"wof_origins:combat/sharp_claws",
 		"wof_origins:combat/weak_melee",
-		"wof_origins:diet/small_appetite",
-		"wof_origins:mobility/swim_air"
+		"wof_origins:diet/small_appetite"
 	]
 }

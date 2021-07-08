@@ -1,6 +1,6 @@
 {
   "name": "Natural Armor",
-  "description": "Your scales are all the protection you need.",
+  "description": "Your scales provide all the protection you need.",
   "type": "origins:attribute",
   "modifier": {
 		"attribute": "minecraft:generic.armor",
