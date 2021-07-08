@@ -1,8 +1,0 @@
-{
-  "hidden": true,
-  "name": "Dripping",
-  "description": "You are dripping wet.",
-  "type": "origins:particle",
-  "particle": "minecraft:dripping_water",
-  "frequency": 6
-}

@@ -1,8 +1,0 @@
-{
-  "hidden": true,
-  "name": "Bubble Trail",
-  "description": "You emit a trail of bubbles.",
-  "type": "origins:particle",
-  "particle": "minecraft:bubble",
-  "frequency": 4
-}
