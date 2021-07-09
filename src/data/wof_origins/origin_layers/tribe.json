@@ -13,7 +13,7 @@
                 "inverted": true
             },
             "origins": [
-                "wof_origins:tribe/nowing"
+                "wof_origins:nowing"
             ]
         },
         {
@@ -23,11 +23,11 @@
                 "layer": "origins:origin"
             },
             "origins": [
-                "wof_origins:tribe/seawing"
+                "wof_origins:seawing"
             ]
         }
     ],
     "exclude_random": [
-        "wof_origins:tribe/nowing"
+        "wof_origins:nowing"
     ]
 }
