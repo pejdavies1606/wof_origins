@@ -17,7 +17,7 @@ The dragon origin is common to all tribes. The tribe is selected on another laye
   + From [Shulk](https://origins.readthedocs.io/en/latest/origins/shulk)
     + Unwieldy: The way your hands are formed provide no way of holding a shield upright.
   + Custom 
-    + Natural armor: Your scales provide all the protection you need.
+    + Reptilian: Your scales provide all the protection you need.
     + Sharp Claws: You deal more damage when empty handed.
     + Small Appetite: You can survive without food for quite some time.
     + Unwieldy (melee): You are not proficient with swords and axes.
