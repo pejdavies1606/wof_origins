@@ -7,8 +7,10 @@
 		"item": "minecraft:dragon_egg"
 	},
 	"powers": [
+		"origins:aerial_combatant",
 		"origins:elytra",
 		"origins:light_armor",
+		"origins:launch_into_air",
 		"origins:no_shield",
 		"wof_origins:combat/natural_armor",
 		"wof_origins:combat/no_ranged",

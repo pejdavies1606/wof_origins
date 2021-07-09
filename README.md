@@ -10,6 +10,8 @@ The dragon origin is common to all tribes. The tribe is selected on another laye
 
 + [Dragon](https://wingsoffire.fandom.com/wiki/Dragons) origin
   + From [Elytrian](https://origins.readthedocs.io/en/latest/origins/elytrian)
+    + Aerial Combatant: While flying, your melee attacks deal double the damage.
+    + Gift of the Winds: Every 30 seconds, you are able to launch about 20 blocks up into the air.
     + Need for mobility:  You can not wear any heavy armor (armor with protection values higher than chainmail).
     + Winged: You have Elytra wings without needing to equip any.
   + From [Shulk](https://origins.readthedocs.io/en/latest/origins/shulk)
@@ -20,7 +22,6 @@ The dragon origin is common to all tribes. The tribe is selected on another laye
     + Small Appetite: You can survive without food for quite some time.
     + Unwieldy (melee): You are not proficient with swords and axes.
     + Unwieldy (ranged): You can not use bows and crossbows.
-
 + [SeaWing](https://wingsoffire.fandom.com/wiki/SeaWings) tribe
   + From [Merling](https://origins.readthedocs.io/en/latest/origins/merling)
     + Aquatic: You receive more damage from impaling.
@@ -43,10 +44,9 @@ The dragon origin is common to all tribes. The tribe is selected on another laye
 
 ### Planned
 
++ Add second tribe layer to support hybrids.
+
 + [Dragon](https://wingsoffire.fandom.com/wiki/Dragons) origin
-  + From [Elytrian](https://origins.readthedocs.io/en/latest/origins/elytrian)
-    + Gift of the Winds: Every 30 seconds, you are able to launch about 20 blocks up into the air.
-    + Aerial Combatant: While flying, your melee attacks deal double the damage.
   + From [Feline](https://origins.readthedocs.io/en/latest/origins/feline)
     + Acrobatics: You do not take fall damage.
     + Nocturnal: You have some night vision unless you are underwater.
@@ -91,10 +91,8 @@ The dragon origin is common to all tribes. The tribe is selected on another laye
     + Scorpion sting
       + Paralysis
 + [SeaWing](https://wingsoffire.fandom.com/wiki/SeaWings) tribe
-  + Origins
-    + From [Merling](https://origins.readthedocs.io/en/latest/origins/merling)
   + Smaller
-  + Bioluminescent: Press key to emit a flash of light. Press another key to glow constantly.
+  + Bioluminescence: Press key to emit a flash of light. Press another key to glow constantly.
 + [SkyWing](https://wingsoffire.fandom.com/wiki/SkyWings) tribe
   + From [Avian](https://origins.readthedocs.io/en/latest/origins/avian)
     + Featherweight: You fall as gently to the ground as a feather would, unless you sneak.
