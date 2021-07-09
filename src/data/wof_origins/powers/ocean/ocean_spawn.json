@@ -1,6 +1,6 @@
 {
-  "name": "Ocean Spawn",
-  "description": "You naturally spawn in the ocean",
+  "name": "Ocean Habitat",
+  "description": "You feel at home in the ocean.",
   "type": "origins:modify_player_spawn",
   "dimension": "minecraft:overworld",
   "biome": "minecraft:ocean"

@@ -30,7 +30,7 @@ The dragon origin is common to all tribes. The tribe is selected on another laye
     + Like Water: When underwater, you do not sink to the ground unless you want to.
   + Custom
     + Gills & Lungs: You can breathe both underwater and on land.
-    + Ocean Spawn: You naturally spawn in the ocean.
+    + Ocean Habitat: You naturally spawn in the ocean.
     + Ocean Comfort: You cannot sleep unless your bed is underwater.
     + Overheat: The unbearable heat of most hot biomes weaken you. Consider using fire resistance.
     + Piscivore: Raw fish are more nutritious for you.
@@ -72,7 +72,8 @@ The dragon origin is common to all tribes. The tribe is selected on another laye
     + Hotblooded: Due to your hot body, venoms burn up, making you immune to poison and hunger status effects.
     + Damage from Snowballs: Snowballs deal 3 damage to you (1.5 hearts).
   + Custom
-    + Swim in lava
+    + Lava Vision
+    + Modify Lava Speed
 + [RainWing](https://wingsoffire.fandom.com/wiki/RainWings) tribe
   + From [Arachnid](https://origins.readthedocs.io/en/latest/origins/arachnid)
     + Climbing: You are able to climb up any kind of wall, not just ladders.
@@ -83,6 +84,7 @@ The dragon origin is common to all tribes. The tribe is selected on another laye
     + Fragile: You have 7 hearts.
   + Custom
     + Colorful: Press key to change the color of your scales.
+      + Model Color
       + Resource bar for hue
     + Acid spit: apply poison
     + Immune to poison
