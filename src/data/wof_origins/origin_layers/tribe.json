@@ -23,7 +23,6 @@
                 "layer": "origins:origin"
             },
             "origins": [
-                "wof_origins:mudwing",
                 "wof_origins:seawing"
             ]
         }
