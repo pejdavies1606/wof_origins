@@ -117,6 +117,7 @@ The dragon origin is common to all tribes. The tribe is selected on another laye
 
 ### Prerequisites
 
+* [7-zip](https://www.7-zip.org)
 * [Minecraft](https://www.minecraft.net)
 * [Fabric](https://fabricmc.net/)
 * [Fabric API](https://www.curseforge.com/minecraft/mc-mods/fabric-api)
