@@ -1,0 +1,47 @@
+{
+    "name": "Powered Flight",
+    "description": "Use the forward key while gliding to flap your wings. Requires at least 2 Hunger bars. You cannot use it with slowness 2 or higher.",
+    "type": "origins:active_self",
+    "cooldown": 20,
+    "hud_render": {
+        "bar_index": 4
+    },
+    "key": {
+       "key": "key.forward",
+       "continuous": true
+    },
+    "entity_action": {
+        "type": "origins:and",
+        "actions": [
+            {
+                "type": "origins:add_velocity",
+                "y": 0.4,
+                "z": 0.3,
+                "space": "local"
+            },
+            {
+                "type": "origins:exhaust",
+                "amount": 1
+            }
+        ]
+    },
+    "condition": {
+        "type": "origins:and",
+        "conditions": [
+            {
+                "type": "origins:fall_flying"
+            },
+            {
+                "type": "origins:food_level",
+                "comparison": ">=",
+                "compare_to": 4
+            },
+            {
+                "type": "origins:status_effect",
+                "effect": "minecraft:slowness",
+                "min_amplifier": 1,
+                "inverted": true
+            }
+        ]
+    }
+}

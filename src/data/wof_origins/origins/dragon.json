@@ -8,14 +8,19 @@
 	},
 	"powers": [
 		"origins:aerial_combatant",
-		"origins:elytra",
+		"origins:cat_vision",
+		"origins:fall_immunity",
 		"origins:light_armor",
 		"origins:launch_into_air",
 		"origins:no_shield",
+		"wof_origins:armor/no_elytra",
 		"wof_origins:combat/natural_armor",
 		"wof_origins:combat/no_ranged",
 		"wof_origins:combat/sharp_claws",
 		"wof_origins:combat/weak_melee",
-		"wof_origins:diet/small_appetite"
+		"wof_origins:diet/small_appetite",
+		"wof_origins:mobility/powered_flight",
+		"wof_origins:mobility/wings",
+		"wof_origins:size/dragon_size"
 	]
 }

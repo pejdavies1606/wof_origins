@@ -11,28 +11,38 @@ The dragon origin is common to all tribes. The tribe is selected on another laye
 + [Dragon](https://wingsoffire.fandom.com/wiki/Dragons) origin
   + From [Elytrian](https://origins.readthedocs.io/en/latest/origins/elytrian)
     + Aerial Combatant: While flying, your melee attacks deal double the damage.
-    + Gift of the Winds: Every 30 seconds, you are able to launch about 20 blocks up into the air.
     + Need for mobility:  You can not wear any heavy armor (armor with protection values higher than chainmail).
     + Winged: You have Elytra wings without needing to equip any.
+  + From [Feline](https://origins.readthedocs.io/en/latest/origins/feline)
+    + Acrobatics: You do not take fall damage.
+    + Nocturnal: You have some night vision unless you are underwater.
   + From [Shulk](https://origins.readthedocs.io/en/latest/origins/shulk)
     + Unwieldy: The way your hands are formed provide no way of holding a shield upright.
+  + From Extra Origins
+    + Small Appetite: You can survive without food for quite some time.
+  + From Mystic
+    + Powered Flight: Use the forward key while gliding to flap your wings.
+  + From Penglin
+    + Unwieldy (ranged): You can not use bows and crossbows.
+  + From Swamp Monster
+    + Known habitat: You move faster in your natural habitat.
+  + From Syren
+    + Unwieldy (melee): You are not proficient with swords and axes.
   + Custom 
     + Reptilian: Your scales provide all the protection you need.
     + Sharp Claws: You deal more damage when empty handed.
-    + Small Appetite: You can survive without food for quite some time.
-    + Unwieldy (melee): You are not proficient with swords and axes.
-    + Unwieldy (ranged): You can not use bows and crossbows.
 + [SeaWing](https://wingsoffire.fandom.com/wiki/SeaWings) tribe
   + From [Merling](https://origins.readthedocs.io/en/latest/origins/merling)
     + Aquatic: You receive more damage from impaling.
     + Aqua Affinity: You may break blocks underwater as others do on land.
     + Fins: Your underwater speed is increased.
     + Like Water: When underwater, you do not sink to the ground unless you want to.
+  + From Penglin
+    + Overheat: The unbearable heat of most hot biomes weaken you. Consider using fire resistance.
   + Custom
     + Gills & Lungs: You can breathe both underwater and on land.
     + Ocean Habitat: You naturally spawn in the ocean.
     + Ocean Comfort: You cannot sleep unless your bed is underwater.
-    + Overheat: The unbearable heat of most hot biomes weaken you. Consider using fire resistance.
     + Piscivore: Raw fish are more nutritious for you.
     + Water Vision: You can see perfectly underwater.
     + Webbed Claws: You move slower on land, unless:
@@ -47,11 +57,6 @@ The dragon origin is common to all tribes. The tribe is selected on another laye
 + Add second tribe layer to support hybrids.
 
 + [Dragon](https://wingsoffire.fandom.com/wiki/Dragons) origin
-  + From [Feline](https://origins.readthedocs.io/en/latest/origins/feline)
-    + Acrobatics: You do not take fall damage.
-    + Nocturnal: You have some night vision unless you are underwater.
-  + From Swamp Monster
-    + Known habitat: You move faster in your natural habitat.
 + [IceWing](https://wingsoffire.fandom.com/wiki/IceWings) tribe
   + From Penglin
     + Belly slide on ice
@@ -90,16 +95,17 @@ The dragon origin is common to all tribes. The tribe is selected on another laye
     + Immune to poison
 + [SandWing](https://wingsoffire.fandom.com/wiki/SandWings) tribe
   + Custom
-    + Scorpion sting
-      + Paralysis
+    + Scorpion sting: Paralysis, slowness
 + [SeaWing](https://wingsoffire.fandom.com/wiki/SeaWings) tribe
   + Smaller
-  + Bioluminescence: Press key to emit a flash of light. Press another key to glow constantly.
+  + Bioluminescence: Press key to emit a flash of light. Hold key for a second to glow constantly. Press again to stop.
 + [SkyWing](https://wingsoffire.fandom.com/wiki/SkyWings) tribe
   + From [Avian](https://origins.readthedocs.io/en/latest/origins/avian)
     + Featherweight: You fall as gently to the ground as a feather would, unless you sneak.
     + Fresh Air: When sleeping, your bed needs to be at an altitude of at least 86 blocks, so you can breathe fresh air.
     + Tailwind: You are a little bit quicker on foot than others.
+  + From [Elytrian](https://origins.readthedocs.io/en/latest/origins/elytrian)
+    + Gift of the Winds: Every 30 seconds, you are able to launch about 20 blocks up into the air.
 
 ### Table
 
@@ -156,15 +162,17 @@ The dragon origin is common to all tribes. The tribe is selected on another laye
 
 ## Acknowledgments
 
-Origin | Authors | Date | Reference
+Title | Authors | Date | Reference
 --- | --- | --- | ---
-RainWing       | DesertR1FT#2156                          | 2021-07-08 | [Origins Discord](https://discord.com/channels/734127708488859831/749571272635187342/862735035344748554)
-Penglin        | Stell#5450                               | 2021-07-04 | [Origins Discord](https://discord.com/channels/734127708488859831/749571272635187342/861066769673093140)
-Penguin        | Tern Lonk (Buggo04)#1773                 | 2021-07-01 | [Origins Discord](https://discord.com/channels/734127708488859831/749571272635187342/860154093539819550)
-Dolphin        | Dolphinman#7192                          | 2021-06-21 | [Origins Discord](https://discord.com/channels/734127708488859831/749571272635187342/856611535773761536)
-Swamp Monster  | jussi#5481                               | 2021-06-19 | [Origins Discord](https://discord.com/channels/734127708488859831/749571272635187342/855707497960570900)
-Ocean Overlord | Zadroit#6293                             | 2021-06-16 | [Origins Discord](https://discord.com/channels/734127708488859831/749571272635187342/854584257237876776)
-Poriferian     | MIITRIN#3970                             | 2021-06-06 | [Origins Discord](https://discord.com/channels/734127708488859831/749571272635187342/850904784541319168)
-Syren          | Leora#0773 <br> Ryman920#1386            | 2021-05-08 | [Origins Discord](https://discord.com/channels/734127708488859831/749571272635187342/840412470072967168)
-Turtling       | CandyCaneCazoo#8717 <br> SpiderKolo#7546 | 2021-02-27 | [Origins Discord](https://discord.com/channels/734127708488859831/749571272635187342/815095623732822076)
-Draconic       | TheSubparSniper#6441                     | 2021-01-28 | [Origins Discord](https://discord.com/channels/734127708488859831/749571272635187342/804369833760129074)
+RainWing       Origin  | DesertR1FT#2156                          | 2021-07-08 | [Origins Discord](https://discord.com/channels/734127708488859831/749571272635187342/862735035344748554)
+Penglin        Origin  | Stell#5450                               | 2021-07-04 | [Origins Discord](https://discord.com/channels/734127708488859831/749571272635187342/861066769673093140)
+Extra          Origins | MoriyaShiine                             | 2021-07-02 | [Curse Forge](https://www.curseforge.com/minecraft/mc-mods/extra-origins)
+Penguin        Origin  | Tern Lonk (Buggo04)#1773                 | 2021-07-01 | [Origins Discord](https://discord.com/channels/734127708488859831/749571272635187342/860154093539819550)
+Dolphin        Origin  | Dolphinman#7192                          | 2021-06-21 | [Origins Discord](https://discord.com/channels/734127708488859831/749571272635187342/856611535773761536)
+Swamp Monster  Origin  | jussi#5481                               | 2021-06-19 | [Origins Discord](https://discord.com/channels/734127708488859831/749571272635187342/855707497960570900)
+Ocean Overlord Origin  | Zadroit#6293                             | 2021-06-16 | [Origins Discord](https://discord.com/channels/734127708488859831/749571272635187342/854584257237876776)
+Poriferian     Origin  | MIITRIN#3970                             | 2021-06-06 | [Origins Discord](https://discord.com/channels/734127708488859831/749571272635187342/850904784541319168)
+Mystic         Origins | Bluestone_Bot                            | 2021-06-02 | [Curse Forge](https://www.curseforge.com/minecraft/mc-addons/mystic-origins)
+Syren          Origin  | Leora#0773 <br> Ryman920#1386            | 2021-05-08 | [Origins Discord](https://discord.com/channels/734127708488859831/749571272635187342/840412470072967168)
+Turtling       Origin  | CandyCaneCazoo#8717 <br> SpiderKolo#7546 | 2021-02-27 | [Origins Discord](https://discord.com/channels/734127708488859831/749571272635187342/815095623732822076)
+Draconic       Origins | TheSubparSniper#6441                     | 2021-01-28 | [Origins Discord](https://discord.com/channels/734127708488859831/749571272635187342/804369833760129074)
