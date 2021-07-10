@@ -2,9 +2,9 @@
   "name": "Overheat",
   "description": "The unbearable heat of most hot biomes will apply the slowness, weakness, and mining fatigue status effects to you. Fire resistance will nullify these effects.",
   "type": "origins:stacking_status_effect",
-  "min_stacks": -2,
-  "max_stacks": 2,
-  "duration_per_stack": 20,
+  "min_stacks": -20,
+  "max_stacks": 361,
+  "duration_per_stack": 10,
   "effects": [
     {
       "effect": "minecraft:slowness",
