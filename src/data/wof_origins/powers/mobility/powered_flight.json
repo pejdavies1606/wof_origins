@@ -32,6 +32,11 @@
                 "type": "origins:fall_flying"
             },
             {
+                "type": "origins:submerged_in",
+                "fluid": "minecraft:water",
+                "inverted": true
+            },
+            {
                 "type": "origins:food_level",
                 "comparison": ">=",
                 "compare_to": 4
