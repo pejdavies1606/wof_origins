@@ -1,14 +1,12 @@
 {
   "name": "Known Habitat",
   "description": "You can navigate faster through your natural habitat.",
-  "type": "origins:stacking_status_effect",
-  "min_stacks": 0,
-  "max_stacks": 1,
-  "duration_per_stack": 20,
-  "effect": {
-    "effect": "minecraft:speed",
-    "show_particles": false,
-    "show_icon": false
+  "type": "origins:conditioned_attribute",
+  "tick_rate": 20,
+  "modifier": {
+    "attribute": "minecraft:generic.movement_speed",
+    "operation": "multiply_base",
+    "value": 0.1
   },
   "condition": {
     "type": "origins:or",
@@ -18,7 +16,7 @@
         "conditions": [
           {
             "type": "origins:origin",
-            "origin": "wof_origins:tribe/seawing"
+            "origin": "wof_origins:seawing"
           },
           {
             "type": "origins:or",
