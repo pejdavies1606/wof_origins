@@ -2,11 +2,11 @@
   "name": "Webbed Claws",
   "description": "You move slower on land, unless you are in your element.",
   "type": "origins:conditioned_attribute",
-  "tick_rate": 1,
+  "tick_rate": 10,
   "modifier": {
     "attribute": "generic.movement_speed",
     "operation": "multiply_base",
-    "value": -0.2
+    "value": -0.1
   },
   "condition": {
     "type": "origins:or",
@@ -16,7 +16,7 @@
         "type": "origins:fluid_height",
         "fluid": "minecraft:water",
         "comparison": ">",
-        "compare_to": 0.0
+        "compare_to": 0
       },
       {
         "type": "origins:status_effect",
