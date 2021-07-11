@@ -6,7 +6,7 @@
   "modifier": {
     "attribute": "generic.movement_speed",
     "operation": "multiply_base",
-    "value": -0.1
+    "value": -0.05
   },
   "condition": {
     "type": "origins:or",
