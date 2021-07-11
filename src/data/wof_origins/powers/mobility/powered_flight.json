@@ -1,13 +1,13 @@
 {
     "name": "Powered Flight",
-    "description": "Use the forward key while gliding to flap your wings. Requires at least 2 Hunger bars. You cannot use it with slowness 2 or higher.",
+    "description": "Use the jump key while gliding to flap your wings. Requires at least 2 Hunger bars. You cannot use it with slowness 2 or higher.",
     "type": "origins:active_self",
     "cooldown": 20,
     "hud_render": {
         "bar_index": 4
     },
     "key": {
-       "key": "key.forward",
+       "key": "key.jump",
        "continuous": true
     },
     "entity_action": {
