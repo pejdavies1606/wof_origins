@@ -1,6 +1,6 @@
 {
 	"name": "Dragon Sized",
-	"description": "You are slightly taller than a normal Player.",
+	"description": "You are larger than a normal Player.",
   "type": "origins:action_on_callback",
   "entity_action_chosen": {
     "type": "origins:execute_command",
