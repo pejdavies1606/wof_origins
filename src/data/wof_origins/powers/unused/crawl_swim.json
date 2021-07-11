@@ -1,0 +1,38 @@
+{
+  "name": "Crawl",
+  "description": "Crawl slowly on the ground.",
+  "type": "origins:multiple",
+  "prone": {
+    "type": "origins:swimming",
+    "condition": {
+      "type": "origins:and",
+      "conditions": [
+        {
+          "type": "origins:on_block"
+        },
+        {
+          "type": "origins:sneaking"
+        }
+      ]
+    }
+  },
+  "slow": {
+    "type": "origins:modify_swim_speed",
+    "modifier": {
+      "name": "Additional swim speed",
+      "operation": "multiply_base",
+      "value": -3
+    },
+    "condition": {
+      "type": "origins:and",
+      "conditions": [
+        {
+          "type": "origins:on_block"
+        },
+        {
+          "type": "origins:sneaking"
+        }
+      ]
+    }
+  }
+}

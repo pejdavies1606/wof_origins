@@ -1,0 +1,26 @@
+{
+  "name": "Door Assist",
+  "description": "Sneak to fit through doors. Jump and sneak to reset.",
+  "type": "origins:active_self",
+  "cooldown": 20,
+  "key": {
+    "key": "key.sneak"
+  },
+  "hud_render": {
+    "should_render": false
+  },
+  "entity_action": {
+    "type": "origins:if_else",
+    "condition": {
+      "type": "origins:on_block"
+    },
+    "if_action": {
+      "type": "origins:execute_command",
+      "command": "scale set 1.3 @s"
+    },
+    "else_action": {
+      "type": "origins:execute_command",
+      "command": "scale set 2 @s"
+    }
+  }
+}

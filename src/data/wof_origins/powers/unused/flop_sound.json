@@ -1,0 +1,25 @@
+{
+  "type": "origins:action_over_time",
+  "entity_action": {
+    "type": "origins:execute_command",
+    "command": "playsound entity.guardian.flop master @a[distance=..10]"
+  },
+  "interval": 10,
+  "condition": {
+    "type": "origins:and",
+    "conditions": [
+      {
+        "type": "origins:submerged_in",
+        "fluid": "minecraft:water",
+        "inverted": true
+      },
+      {
+        "type": "origins:moving"
+      },
+      {
+        "type": "origins:on_block"
+      }
+    ]
+  },
+  "hidden": true
+}
