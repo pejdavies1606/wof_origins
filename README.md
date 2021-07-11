@@ -21,7 +21,7 @@ The dragon origin is common to all tribes. The tribe is selected on another laye
   + From Extra Origins
     + Small Appetite: You can survive without food for quite some time.
   + From Mystic
-    + Powered Flight: Use the forward key while gliding to flap your wings.
+    + Powered Flight: Use the jump key while gliding to flap your wings.
   + From Penglin
     + Unwieldy (ranged): You can not use bows and crossbows.
   + From Swamp Monster
