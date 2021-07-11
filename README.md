@@ -29,6 +29,8 @@ The dragon origin is common to all tribes. The tribe is selected on another laye
   + From Syren
     + Unwieldy (melee): You are not proficient with swords and axes.
   + Custom 
+    + Door Assist: Sneak to fit through doors. Sneak again to reset.
+    + Dragon Size: You are larger than a normal Player.
     + Reptilian: Your scales provide all the protection you need.
     + Sharp Claws: You deal more damage when empty handed.
 + [SeaWing](https://wingsoffire.fandom.com/wiki/SeaWings) tribe
