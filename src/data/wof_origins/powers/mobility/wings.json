@@ -1,4 +1,6 @@
 {
+  "name": "Wings",
+  "description": "You have wings!",
   "type": "origins:elytra_flight",
   "render_elytra": false
 }
