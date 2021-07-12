@@ -16,6 +16,34 @@
         "conditions": [
           {
             "type": "origins:origin",
+            "origin": "wof_origins:mudwing"
+          },
+          {
+            "type": "origins:or",
+            "conditions": [
+              {
+                "type": "origins:biome",
+                "condition": {
+                  "type": "origins:category",
+                  "category": "minecraft:river"
+                }
+              },
+              {
+                "type": "origins:biome",
+                "condition": {
+                  "type": "origins:category",
+                  "category": "minecraft:swamp"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "origins:and",
+        "conditions": [
+          {
+            "type": "origins:origin",
             "origin": "wof_origins:seawing"
           },
           {
