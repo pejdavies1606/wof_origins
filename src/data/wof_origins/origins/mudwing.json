@@ -10,6 +10,7 @@
 		"origins:aquatic",
 		"origins:aqua_affinity",
 		"origins:natural_armor",
+		"origins:swim_speed",
 		"wof_origins:diet/piscivore",
 		"wof_origins:habitat/swamp_spawn",
 		"wof_origins:water/water_comfort",
