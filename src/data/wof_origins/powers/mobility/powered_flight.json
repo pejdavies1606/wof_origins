@@ -16,7 +16,7 @@
             {
                 "type": "origins:add_velocity",
                 "y": 0.4,
-                "z": 0.3,
+                "z": 0.1,
                 "space": "local"
             },
             {
