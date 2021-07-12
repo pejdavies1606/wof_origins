@@ -37,6 +37,7 @@ The dragon origin is common to all tribes. The tribe is selected on another laye
   + From [Merling](https://origins.readthedocs.io/en/latest/origins/merling)
     + Aquatic: You receive more damage from impaling.
     + Aqua Affinity: You may break blocks underwater as others do on land.
+    + Fins: Your underwater speed is increased.
   + From [Shulk](https://origins.readthedocs.io/en/latest/origins/shulk)
     + Tough Scales: You get an additional 8 armor points (4 full pips), which stack even over the visible limit.
   + Custom
