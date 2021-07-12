@@ -1,6 +1,6 @@
 {
   "name": "Deep Breath",
-  "description": "Every 10 minutes you can take a deep breath letting you go under water for 5 minutes.",
+  "description": "Press primary key to take a deep breath for 5 minutes every 10 minutes.",
   "type": "origins:active_self",
   "cooldown": 12000,
   "hud_render": {
