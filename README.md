@@ -33,6 +33,17 @@ The dragon origin is common to all tribes. The tribe is selected on another laye
     + Dragon Size: You are larger than a normal Player.
     + Reptilian: Your scales provide all the protection you need.
     + Sharp Claws: You deal more damage when empty handed.
++ [MudWing](https://wingsoffire.fandom.com/wiki/MudWings) tribe
+  + From [Merling](https://origins.readthedocs.io/en/latest/origins/merling)
+    + Aquatic: You receive more damage from impaling.
+    + Aqua Affinity: You may break blocks underwater as others do on land.
+   + From [Shulk](https://origins.readthedocs.io/en/latest/origins/shulk)
+    + Tough Scales: You get an additional 8 armor points (4 full pips), which stack even over the visible limit.
+  + Custom
+    + Deep Breath: You can breathe both underwater and on land.
+    + Piscivore: Raw fish are more nutritious for you.
+    + Swamp Habitat: You naturally spawn in the ocean.
+    + Water Comfort: You cannot sleep unless your bed is underwater.
 + [SeaWing](https://wingsoffire.fandom.com/wiki/SeaWings) tribe
   + From [Merling](https://origins.readthedocs.io/en/latest/origins/merling)
     + Aquatic: You receive more damage from impaling.
@@ -44,8 +55,8 @@ The dragon origin is common to all tribes. The tribe is selected on another laye
   + Custom
     + Gills & Lungs: You can breathe both underwater and on land.
     + Ocean Habitat: You naturally spawn in the ocean.
-    + Ocean Comfort: You cannot sleep unless your bed is underwater.
     + Piscivore: Raw fish are more nutritious for you.
+    + Water Comfort: You cannot sleep unless your bed is underwater.
     + Water Vision: You can see perfectly underwater.
     + Webbed Claws: You move slower on land, unless:
       + you are standing in water, or
@@ -65,8 +76,6 @@ The dragon origin is common to all tribes. The tribe is selected on another laye
   + Custom
     + Icy breath: Throw snowball, apply slowness to target.
 + [MudWing](https://wingsoffire.fandom.com/wiki/MudWings) tribe
-  + From [Shulk](https://origins.readthedocs.io/en/latest/origins/shulk)
-    + Tough Scales: You get an additional 8 armor points (4 full pips), which stack even over the visible limit.
   + Custom
     + Upgrades
       + Fireproof scales

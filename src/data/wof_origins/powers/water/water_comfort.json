@@ -1,5 +1,5 @@
 {
-  "name": "Ocean Comfort",
+  "name": "Water Comfort",
   "description": "You can only sleep underwater.",
   "type": "origins:prevent_sleep",
   "message": "You aren't in the water!",
