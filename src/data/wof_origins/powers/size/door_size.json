@@ -1,6 +1,6 @@
 {
 	"name": "Door Assist",
-	"description": "Sneak to fit through doors. Sneak again to return to normal.",
+	"description": "Press secondary key to fit through doors. Press again to return to normal.",
 	"type": "origins:multiple",
 	"size": {
 		"type": "origins:active_self",
@@ -24,14 +24,14 @@
 		},
 		"cooldown": 20,
 		"key": {
-			"key": "key.sneak"
+			"key": "key.origins.secondary_active"
 		}
 	},
 	"toggle": {
 		"type": "origins:toggle",
 		"active_by_default" : false,
 		"key": {
-			"key": "key.sneak"
+			"key": "key.origins.secondary_active"
 		}
 	}
 }
