@@ -12,11 +12,11 @@
     },
     "food_modifier": {
       "operation": "addition",
-      "value": 2
+      "value": 4
     },
     "saturation_modifier": {
       "operation": "addition",
-      "value": 1
+      "value": 2
     }
   }
 }
