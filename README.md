@@ -37,7 +37,7 @@ The dragon origin is common to all tribes. The tribe is selected on another laye
   + From [Merling](https://origins.readthedocs.io/en/latest/origins/merling)
     + Aquatic: You receive more damage from impaling.
     + Aqua Affinity: You may break blocks underwater as others do on land.
-   + From [Shulk](https://origins.readthedocs.io/en/latest/origins/shulk)
+  + From [Shulk](https://origins.readthedocs.io/en/latest/origins/shulk)
     + Tough Scales: You get an additional 8 armor points (4 full pips), which stack even over the visible limit.
   + Custom
     + Deep Breath: You can breathe both underwater and on land.
@@ -68,7 +68,6 @@ The dragon origin is common to all tribes. The tribe is selected on another laye
 ### Planned
 
 + Add second tribe layer to support hybrids.
-
 + [Dragon](https://wingsoffire.fandom.com/wiki/Dragons) origin
 + [IceWing](https://wingsoffire.fandom.com/wiki/IceWings) tribe
   + From Penglin
