@@ -1,0 +1,37 @@
+{
+  "hidden": true,
+  "type": "origins:action_over_time",
+  "interval": 10,
+  "entity_action": {
+    "type": "origins:block_action_at",
+    "block_action": {
+      "type": "origins:and",
+      "actions": [
+        {
+          "type": "origins:execute_command",
+          "command": "/fill ~-5 ~-5 ~5 ~5 ~5 ~2 minecraft:air replace minecraft:light"
+        },
+        {
+          "type": "origins:execute_command",
+          "command": "/fill ~5 ~-5 ~-5 ~-5 ~5 ~-2 minecraft:air replace minecraft:light"
+        },
+        {
+          "type": "origins:execute_command",
+          "command": "/fill ~5 ~-5 ~5 ~2 ~5 ~-2 minecraft:air replace minecraft:light"
+        },
+        {
+          "type": "origins:execute_command",
+          "command": "/fill ~-5 ~-5 ~5 ~-2 ~5 ~-2 minecraft:air replace minecraft:light"
+        },
+        {
+          "type": "origins:execute_command",
+          "command": "/fill ~-5 ~-5 ~-5 ~5 ~-1 ~5 minecraft:air replace minecraft:light"
+        },
+        {
+          "type": "origins:execute_command",
+          "command": "/fill ~-5 ~5 ~-5 ~5 ~2 ~5 minecraft:air replace minecraft:light"
+        }
+      ]
+    }
+  }
+}

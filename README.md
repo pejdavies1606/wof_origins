@@ -135,7 +135,7 @@ The dragon origin is common to all tribes. The tribe is selected on another laye
 ### Prerequisites
 
 * [7-zip](https://www.7-zip.org)
-* [Minecraft](https://www.minecraft.net)
+* [Minecraft](https://www.minecraft.net) 1.17
 * [Fabric](https://fabricmc.net/)
 * [Fabric API](https://www.curseforge.com/minecraft/mc-mods/fabric-api)
 * [Origins](https://www.curseforge.com/minecraft/mc-mods/origins)
@@ -175,6 +175,7 @@ The dragon origin is common to all tribes. The tribe is selected on another laye
 
 Title | Authors | Date | Reference
 --- | --- | --- | ---
+Light          Power   | Patedj#3926 <br> $m4rtE#0042             | 2021-07-17 | [Origins Discord](https://discord.com/channels/734127708488859831/802622603008409600/865908005131124756)
 RainWing       Origin  | DesertR1FT#2156                          | 2021-07-08 | [Origins Discord](https://discord.com/channels/734127708488859831/749571272635187342/862735035344748554)
 Penglin        Origin  | Stell#5450                               | 2021-07-04 | [Origins Discord](https://discord.com/channels/734127708488859831/749571272635187342/861066769673093140)
 Extra          Origins | MoriyaShiine                             | 2021-07-02 | [Curse Forge](https://www.curseforge.com/minecraft/mc-mods/extra-origins)

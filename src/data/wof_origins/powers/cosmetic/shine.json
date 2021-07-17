@@ -1,0 +1,17 @@
+{
+  "name": "Glow",
+  "description": "You have bioluminescent scales.",
+  "type": "origins:action_over_time",
+  "interval": 10,
+  "entity_action": {
+    "type": "origins:block_action_at",
+    "block_action": {
+      "type": "origins:offset",
+      "y": 3,
+      "action": {
+        "type": "origins:execute_command",
+        "command": "/fill ~ ~1 ~ ~ ~1 ~ minecraft:light[level=15]"
+      }
+    }
+  }
+}
