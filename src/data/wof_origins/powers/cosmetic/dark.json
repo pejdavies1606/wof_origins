@@ -1,7 +1,7 @@
 {
   "hidden": true,
   "type": "origins:action_over_time",
-  "interval": 10,
+  "interval": 2,
   "entity_action": {
     "type": "origins:block_action_at",
     "block_action": {

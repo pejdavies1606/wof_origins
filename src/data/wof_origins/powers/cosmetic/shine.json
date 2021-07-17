@@ -2,7 +2,7 @@
   "name": "Glow",
   "description": "You have bioluminescent scales.",
   "type": "origins:action_over_time",
-  "interval": 10,
+  "interval": 2,
   "entity_action": {
     "type": "origins:block_action_at",
     "block_action": {
@@ -10,7 +10,7 @@
       "y": 3,
       "action": {
         "type": "origins:execute_command",
-        "command": "/fill ~ ~1 ~ ~ ~1 ~ minecraft:light[level=15]"
+        "command": "/fill ~ ~1 ~ ~ ~1 ~ minecraft:light[level=12] replace minecraft:air"
       }
     }
   }
