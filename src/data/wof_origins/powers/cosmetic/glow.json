@@ -1,6 +1,6 @@
 {
   "name": "Glow",
-  "description": "You have bioluminescent scales.",
+  "description": "You emit light from your bioluminescent scales.",
   "type": "origins:multiple",
   "set": {
     "type": "origins:action_over_time",
@@ -9,7 +9,6 @@
       "type": "origins:block_action_at",
       "block_action": {
         "type": "origins:offset",
-        "y": 0,
         "action": {
           "type": "origins:execute_command",
           "command": "/fill ~ ~1 ~ ~ ~1 ~ minecraft:light[level=12] replace minecraft:air"
