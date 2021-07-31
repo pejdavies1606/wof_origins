@@ -55,7 +55,7 @@ The dragon origin is common to all tribes. The tribe is selected on another laye
     + Overheat: The unbearable heat of most hot biomes weaken you. Consider using fire resistance.
   + Custom
     + Gills & Lungs: You can breathe both underwater and on land.
-    + Glow: Press primary key to toggle the emission of light from your bioluminescent scales.
+    + Glow: Press primary key to toggle the emission of light from your bioluminescent scales. (1.17+)
     + Ocean Habitat: You naturally spawn in the ocean.
     + Piscivore: Raw fish are more nutritious for you.
     + Water Comfort: You cannot sleep unless your bed is underwater.
