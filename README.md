@@ -55,6 +55,7 @@ The dragon origin is common to all tribes. The tribe is selected on another laye
     + Overheat: The unbearable heat of most hot biomes weaken you. Consider using fire resistance.
   + Custom
     + Gills & Lungs: You can breathe both underwater and on land.
+    + Glow: You emit light from your bioluminescent scales.
     + Ocean Habitat: You naturally spawn in the ocean.
     + Piscivore: Raw fish are more nutritious for you.
     + Water Comfort: You cannot sleep unless your bed is underwater.
@@ -109,7 +110,7 @@ The dragon origin is common to all tribes. The tribe is selected on another laye
     + Scorpion sting: Paralysis, slowness
 + [SeaWing](https://wingsoffire.fandom.com/wiki/SeaWings) tribe
   + Smaller
-  + Bioluminescence: Press key to emit a flash of light. Hold key for a second to glow constantly. Press again to stop.
+  + Glow: Press key to emit a flash of light. Hold key for a second to glow constantly. Press again to stop.
 + [SkyWing](https://wingsoffire.fandom.com/wiki/SkyWings) tribe
   + From [Avian](https://origins.readthedocs.io/en/latest/origins/avian)
     + Featherweight: You fall as gently to the ground as a feather would, unless you sneak.
