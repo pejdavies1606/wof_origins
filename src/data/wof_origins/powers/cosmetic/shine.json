@@ -35,19 +35,19 @@
           },
           {
             "type": "origins:execute_command",
-            "command": "/fill ~5 ~-5 ~5 ~2 ~5 ~-2 minecraft:air replace minecraft:light"
+            "command": "/fill ~5 ~-5 ~2 ~2 ~5 ~-2 minecraft:air replace minecraft:light"
           },
           {
             "type": "origins:execute_command",
-            "command": "/fill ~-5 ~-5 ~5 ~-2 ~5 ~-2 minecraft:air replace minecraft:light"
+            "command": "/fill ~-5 ~-5 ~2 ~-2 ~5 ~-2 minecraft:air replace minecraft:light"
           },
           {
             "type": "origins:execute_command",
-            "command": "/fill ~-5 ~-5 ~-5 ~5 ~-1 ~5 minecraft:air replace minecraft:light"
+            "command": "/fill ~-2 ~-5 ~-2 ~2 ~ ~2 minecraft:air replace minecraft:light"
           },
           {
             "type": "origins:execute_command",
-            "command": "/fill ~-5 ~5 ~-5 ~5 ~2 ~5 minecraft:air replace minecraft:light"
+            "command": "/fill ~-2 ~5 ~-2 ~2 ~2 ~2 minecraft:air replace minecraft:light"
           }
         ]
       }
