@@ -6,12 +6,29 @@
     "type": "origins:action_over_time",
     "interval": 1,
     "entity_action": {
-      "type": "origins:block_action_at",
-      "block_action": {
-        "type": "origins:offset",
-        "action": {
-          "type": "origins:execute_command",
-          "command": "/fill ~ ~1 ~ ~ ~1 ~ minecraft:light[level=12] replace minecraft:air"
+      "type": "origins:if_else",
+      "condition": {
+        "type": "origins:power_active",
+        "power": "wof_origins:key/glow"
+      },
+      "if_action": {
+        "type": "origins:block_action_at",
+        "block_action": {
+          "type": "origins:offset",
+          "action": {
+            "type": "origins:execute_command",
+            "command": "/fill ~ ~1 ~ ~ ~1 ~ minecraft:light[level=12] replace minecraft:air"
+          }
+        }
+      },
+      "else_action": {
+        "type": "origins:block_action_at",
+        "block_action": {
+          "type": "origins:offset",
+          "action": {
+            "type": "origins:execute_command",
+            "command": "/fill ~ ~1 ~ ~ ~1 ~ minecraft:air replace minecraft:light"
+          }
         }
       }
     }
@@ -26,19 +43,19 @@
         "actions": [
           {
             "type": "origins:execute_command",
-            "command": "/fill ~-5 ~-5 ~5 ~5 ~5 ~2 minecraft:air replace minecraft:light"
+            "command": "/fill ~-5 ~-5 ~5 ~5 ~5 ~1 minecraft:air replace minecraft:light"
           },
           {
             "type": "origins:execute_command",
-            "command": "/fill ~5 ~-5 ~-5 ~-5 ~5 ~-2 minecraft:air replace minecraft:light"
+            "command": "/fill ~5 ~-5 ~-5 ~-5 ~5 ~-1 minecraft:air replace minecraft:light"
           },
           {
             "type": "origins:execute_command",
-            "command": "/fill ~5 ~-5 ~2 ~2 ~5 ~-2 minecraft:air replace minecraft:light"
+            "command": "/fill ~5 ~-5 ~2 ~1 ~5 ~-1 minecraft:air replace minecraft:light"
           },
           {
             "type": "origins:execute_command",
-            "command": "/fill ~-5 ~-5 ~2 ~-2 ~5 ~-2 minecraft:air replace minecraft:light"
+            "command": "/fill ~-5 ~-5 ~2 ~-1 ~5 ~-1 minecraft:air replace minecraft:light"
           },
           {
             "type": "origins:execute_command",
