@@ -1,0 +1,19 @@
+{
+	"name": "MudWing",
+	"description": "Pyrrhian dragon from the Mud Kingdom.",
+	"order": 0,
+	"impact": 1,
+	"icon": {
+		"item": "minecraft:terracotta"
+	},
+	"powers": [
+		"origins:aquatic",
+		"origins:aqua_affinity",
+		"origins:natural_armor",
+		"origins:swim_speed",
+		"wof_origins:diet/piscivore",
+		"wof_origins:habitat/swamp_spawn",
+		"wof_origins:water/water_comfort",
+		"wof_origins:water/deep_breath"
+	]
+}
