@@ -16,6 +16,7 @@ The dragon origin is common to all tribes. The tribe is selected on another laye
   + From [Feline](https://origins.readthedocs.io/en/latest/origins/feline)
     + Acrobatics: You do not take fall damage.
     + Nocturnal: You have some night vision unless you are underwater.
+    + Catlike Appearance: Creepers are scared of you and will only explode if you attack them first.
   + From [Shulk](https://origins.readthedocs.io/en/latest/origins/shulk)
     + Unwieldy: The way your hands are formed provide no way of holding a shield upright.
   + From Extra Origins
@@ -33,6 +34,8 @@ The dragon origin is common to all tribes. The tribe is selected on another laye
     + Dragon Size: You are larger than a normal Player.
     + Reptilian: Your scales provide all the protection you need.
     + Sharp Claws: You deal more damage when empty handed.
++ [IceWing](https://wingsoffire.fandom.com/wiki/IceWings) tribe
+    + Snowy Habitat: You naturally spawn in the tundra.
 + [MudWing](https://wingsoffire.fandom.com/wiki/MudWings) tribe
   + From [Merling](https://origins.readthedocs.io/en/latest/origins/merling)
     + Aquatic: You receive more damage from impaling.
@@ -43,8 +46,14 @@ The dragon origin is common to all tribes. The tribe is selected on another laye
   + Custom
     + Deep Breath: You can breathe both underwater and on land.
     + Piscivore: Raw fish are more nutritious for you.
-    + Swamp Habitat: You naturally spawn in the ocean.
+    + Swamp Habitat: You naturally spawn in a swamp.
     + Water Comfort: You cannot sleep unless your bed is underwater.
++ [NightWing](https://wingsoffire.fandom.com/wiki/NightWings) tribe
+    + Mesa Habitat: You naturally spawn in a mesa.
++ [RainWing](https://wingsoffire.fandom.com/wiki/RainWings) tribe
+    + Jungle Habitat: You naturally spawn in a jungle.
++ [SandWing](https://wingsoffire.fandom.com/wiki/SandWings) tribe
+    + Desert Habitat: You naturally spawn in a desert.
 + [SeaWing](https://wingsoffire.fandom.com/wiki/SeaWings) tribe
   + From [Merling](https://origins.readthedocs.io/en/latest/origins/merling)
     + Aquatic: You receive more damage from impaling.
@@ -66,6 +75,8 @@ The dragon origin is common to all tribes. The tribe is selected on another laye
       + you do not have the slowness effect and
         + you have the speed effect, or
         + you are in rain.
++ [SkyWing](https://wingsoffire.fandom.com/wiki/SkyWings) tribe
+    + Mountain Habitat: You naturally spawn in a mountain range.
 
 ### Planned
 
@@ -75,8 +86,9 @@ The dragon origin is common to all tribes. The tribe is selected on another laye
   + From Penglin
     + Belly slide on ice
   + Custom
+    + Flammable: You take more damage from fire.
     + Icy Breath: Throw snowball, apply slowness to target.
-    + Icy Scales: Your cold scales extinguish fire.
+    + Sharp Claws: You deal more damage when empty handed.
 + [MudWing](https://wingsoffire.fandom.com/wiki/MudWings) tribe
   + Custom
     + Upgrades
