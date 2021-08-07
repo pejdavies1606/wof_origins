@@ -1,0 +1,11 @@
+{
+	"name": "NightWing",
+	"description": "Pyrrhian dragon from the Night Kingdom.",
+	"order": 0,
+	"impact": 1,
+	"icon": {
+		"item": "minecraft:obsidian"
+	},
+	"powers": [
+	]
+}

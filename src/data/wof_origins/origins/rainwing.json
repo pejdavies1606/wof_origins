@@ -1,0 +1,11 @@
+{
+	"name": "RainWing",
+	"description": "Pyrrhian dragon from the Rainforest Kingdom.",
+	"order": 0,
+	"impact": 1,
+	"icon": {
+		"item": "minecraft:jungle_leaves"
+	},
+	"powers": [
+	]
+}

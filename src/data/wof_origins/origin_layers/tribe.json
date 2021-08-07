@@ -23,8 +23,13 @@
                 "layer": "origins:origin"
             },
             "origins": [
+                "wof_origins:icewing",
                 "wof_origins:mudwing",
-                "wof_origins:seawing"
+                "wof_origins:nightwing",
+                "wof_origins:rainwing",
+                "wof_origins:sandwing",
+                "wof_origins:seawing",
+                "wof_origins:skywing"
             ]
         }
     ],
