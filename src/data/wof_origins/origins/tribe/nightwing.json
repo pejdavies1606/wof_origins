@@ -7,5 +7,6 @@
 		"item": "minecraft:obsidian"
 	},
 	"powers": [
+		"wof_origins:habitat/mesa_spawn"
 	]
 }

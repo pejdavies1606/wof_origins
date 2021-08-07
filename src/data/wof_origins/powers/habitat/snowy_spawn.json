@@ -1,0 +1,7 @@
+{
+  "name": "Snowy Habitat",
+  "description": "You feel at home in a tundra.",
+  "type": "origins:modify_player_spawn",
+  "dimension": "minecraft:overworld",
+  "biome": "minecraft:snowy_tundra"
+}

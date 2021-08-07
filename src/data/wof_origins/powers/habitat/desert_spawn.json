@@ -1,0 +1,7 @@
+{
+  "name": "Desert Habitat",
+  "description": "You feel at home in a desert.",
+  "type": "origins:modify_player_spawn",
+  "dimension": "minecraft:overworld",
+  "biome": "minecraft:desert"
+}
