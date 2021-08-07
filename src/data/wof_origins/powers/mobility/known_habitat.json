@@ -16,7 +16,7 @@
         "conditions": [
           {
             "type": "origins:origin",
-            "origin": "wof_origins:mudwing"
+            "origin": "wof_origins:tribe/mudwing"
           },
           {
             "type": "origins:or",
@@ -44,7 +44,7 @@
         "conditions": [
           {
             "type": "origins:origin",
-            "origin": "wof_origins:seawing"
+            "origin": "wof_origins:tribe/seawing"
           },
           {
             "type": "origins:or",
