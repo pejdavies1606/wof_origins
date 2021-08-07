@@ -1,0 +1,12 @@
+{
+  "name": "Fireproof",
+  "description": "You take less damage from fire.",
+  "type": "origins:modify_damage_taken",
+  "modifier": {
+    "operation": "multiply_base",
+    "value": -1
+  },
+  "damage_condition": {
+    "type": "origins:fire"
+  }
+}
