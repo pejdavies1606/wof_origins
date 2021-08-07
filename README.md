@@ -75,7 +75,8 @@ The dragon origin is common to all tribes. The tribe is selected on another laye
   + From Penglin
     + Belly slide on ice
   + Custom
-    + Icy breath: Throw snowball, apply slowness to target.
+    + Icy Breath: Throw snowball, apply slowness to target.
+    + Icy Scales: Your cold scales extinguish fire.
 + [MudWing](https://wingsoffire.fandom.com/wiki/MudWings) tribe
   + Custom
     + Upgrades
