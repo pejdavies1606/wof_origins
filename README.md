@@ -97,7 +97,6 @@ The dragon origin is common to all tribes. The tribe is selected on another laye
 + [NightWing](https://wingsoffire.fandom.com/wiki/NightWings) tribe
   + From [Blazeborn](https://origins.readthedocs.io/en/latest/origins/blazeborn)
     + Fire Immunity: You are immune to all types of fire damage.
-    + Nether Inhabitant: Your natural spawn will be in the Nether.
     + Burning Wrath: When on fire, you deal additional damage with your attacks.
     + Hotblooded: Due to your hot body, venoms burn up, making you immune to poison and hunger status effects.
     + Damage from Snowballs: Snowballs deal 3 damage to you (1.5 hearts).
@@ -121,6 +120,8 @@ The dragon origin is common to all tribes. The tribe is selected on another laye
 + [SandWing](https://wingsoffire.fandom.com/wiki/SandWings) tribe
   + Custom
     + Scorpion sting: Paralysis, slowness
+    + Upgrades
+      + Scorpion sting: Wither
 + [SeaWing](https://wingsoffire.fandom.com/wiki/SeaWings) tribe
   + Smaller
   + Glow: Press key to emit a flash of light. Hold key for a second to glow constantly. Press again to stop.
