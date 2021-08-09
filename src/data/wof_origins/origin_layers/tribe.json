@@ -3,7 +3,7 @@
     "order": 10,
     "enabled": true,
     "allow_random": true,
-    "auto_choose": false,
+    "auto_choose": true,
     "origins": [
         {
             "condition": {
