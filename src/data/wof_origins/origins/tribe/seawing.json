@@ -1,0 +1,25 @@
+{
+	"name": "SeaWing",
+	"description": "Pyrrhian dragon from the Kingdom of the Sea.",
+	"order": 0,
+	"impact": 2,
+	"icon": {
+		"item": "minecraft:sea_lantern"
+	},
+	"powers": [
+		"origins:aquatic",
+		"origins:aqua_affinity",
+		"origins:like_water",
+		"origins:swim_speed",
+		"wof_origins:combat/water_proficient",
+		"wof_origins:cosmetic/glow",
+		"wof_origins:diet/piscivore",
+		"wof_origins:mobility/webbed_claws",
+		"wof_origins:habitat/ocean_spawn",
+		"wof_origins:key/glow",
+		"wof_origins:thermal/overheat",
+		"wof_origins:water/gills_lungs",
+		"wof_origins:water/water_comfort",
+		"wof_origins:water/water_vision"
+	]
+}

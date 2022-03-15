@@ -13,7 +13,7 @@
                 "inverted": true
             },
             "origins": [
-                "wof_origins:nowing"
+                "wof_origins:tribe/nowing"
             ]
         },
         {
@@ -23,12 +23,17 @@
                 "layer": "origins:origin"
             },
             "origins": [
-                "wof_origins:mudwing",
-                "wof_origins:seawing"
+                "wof_origins:tribe/icewing",
+                "wof_origins:tribe/mudwing",
+                "wof_origins:tribe/nightwing",
+                "wof_origins:tribe/rainwing",
+                "wof_origins:tribe/sandwing",
+                "wof_origins:tribe/seawing",
+                "wof_origins:tribe/skywing"
             ]
         }
     ],
     "exclude_random": [
-        "wof_origins:nowing"
+        "wof_origins:tribe/nowing"
     ]
 }

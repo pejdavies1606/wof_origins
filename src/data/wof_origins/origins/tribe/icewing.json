@@ -1,0 +1,12 @@
+{
+	"name": "IceWing",
+	"description": "Pyrrhian dragon from the Ice Kingdom.",
+	"order": 0,
+	"impact": 1,
+	"icon": {
+		"item": "minecraft:packed_ice"
+	},
+	"powers": [
+		"wof_origins:habitat/snowy_spawn"
+	]
+}

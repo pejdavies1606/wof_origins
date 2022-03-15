@@ -16,7 +16,35 @@
         "conditions": [
           {
             "type": "origins:origin",
-            "origin": "wof_origins:mudwing"
+            "origin": "wof_origins:tribe/icewing"
+          },
+          {
+            "type": "origins:or",
+            "conditions": [
+              {
+                "type": "origins:biome",
+                "condition": {
+                  "type": "origins:category",
+                  "category": "minecraft:icy"
+                }
+              },
+              {
+                "type": "origins:biome",
+                "condition": {
+                  "type": "origins:category",
+                  "category": "minecraft:taiga"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "origins:and",
+        "conditions": [
+          {
+            "type": "origins:origin",
+            "origin": "wof_origins:tribe/mudwing"
           },
           {
             "type": "origins:or",
@@ -44,7 +72,91 @@
         "conditions": [
           {
             "type": "origins:origin",
-            "origin": "wof_origins:seawing"
+            "origin": "wof_origins:tribe/nightwing"
+          },
+          {
+            "type": "origins:or",
+            "conditions": [
+              {
+                "type": "origins:biome",
+                "condition": {
+                  "type": "origins:category",
+                  "category": "minecraft:nether"
+                }
+              },
+              {
+                "type": "origins:biome",
+                "condition": {
+                  "type": "origins:category",
+                  "category": "minecraft:the_end"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "origins:and",
+        "conditions": [
+          {
+            "type": "origins:origin",
+            "origin": "wof_origins:tribe/rainwing"
+          },
+          {
+            "type": "origins:or",
+            "conditions": [
+              {
+                "type": "origins:biome",
+                "condition": {
+                  "type": "origins:category",
+                  "category": "minecraft:forest"
+                }
+              },
+              {
+                "type": "origins:biome",
+                "condition": {
+                  "type": "origins:category",
+                  "category": "minecraft:jungle"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "origins:and",
+        "conditions": [
+          {
+            "type": "origins:origin",
+            "origin": "wof_origins:tribe/sandwing"
+          },
+          {
+            "type": "origins:or",
+            "conditions": [
+              {
+                "type": "origins:biome",
+                "condition": {
+                  "type": "origins:category",
+                  "category": "minecraft:desert"
+                }
+              },
+              {
+                "type": "origins:biome",
+                "condition": {
+                  "type": "origins:category",
+                  "category": "minecraft:mesa"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "origins:and",
+        "conditions": [
+          {
+            "type": "origins:origin",
+            "origin": "wof_origins:tribe/seawing"
           },
           {
             "type": "origins:or",
@@ -54,6 +166,41 @@
                 "condition": {
                   "type": "origins:category",
                   "category": "minecraft:beach"
+                }
+              },
+              {
+                "type": "origins:biome",
+                "condition": {
+                  "type": "origins:category",
+                  "category": "minecraft:ocean"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "origins:and",
+        "conditions": [
+          {
+            "type": "origins:origin",
+            "origin": "wof_origins:tribe/skywing"
+          },
+          {
+            "type": "origins:or",
+            "conditions": [
+              {
+                "type": "origins:biome",
+                "condition": {
+                  "type": "origins:category",
+                  "category": "minecraft:extreme_hills"
+                }
+              },
+              {
+                "type": "origins:biome",
+                "condition": {
+                  "type": "origins:category",
+                  "category": "minecraft:savanna"
                 }
               }
             ]

@@ -1,0 +1,12 @@
+{
+	"name": "SkyWing",
+	"description": "Pyrrhian dragon from the Sky Kingdom.",
+	"order": 0,
+	"impact": 1,
+	"icon": {
+		"item": "minecraft:elytra"
+	},
+	"powers": [
+		"wof_origins:habitat/mountain_spawn"
+	]
+}

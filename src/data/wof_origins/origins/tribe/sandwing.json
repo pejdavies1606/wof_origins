@@ -1,0 +1,12 @@
+{
+	"name": "SandWing",
+	"description": "Pyrrhian dragon from the Sand Kingdom.",
+	"order": 0,
+	"impact": 1,
+	"icon": {
+		"item": "minecraft:sandstone"
+	},
+	"powers": [
+		"wof_origins:habitat/desert_spawn"
+	]
+}
